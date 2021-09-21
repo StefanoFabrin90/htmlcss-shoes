@@ -59,12 +59,6 @@ html {
     background-color: yellow;
 }
 
-.content img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-}
-
 .content, .content-1, .content-2 {
     height: 500px;
     width: 800px;
@@ -72,6 +66,12 @@ html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -60%);
+}
+
+.content img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 
 .text, .text-1 {
