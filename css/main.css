@@ -73,6 +73,18 @@ html {
     object-fit: cover;
 }
 
+.content-1 img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.content-2 img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
 .text, .text-1 {
     font-size: 40px;
     text-transform: uppercase;
