@@ -42,8 +42,7 @@ html {
 /* section */
 
 .full-section, .full-section-1, .full-section-2 {
-    height: 100vh;
-    display: block;
+    height: 100vh; 
     position: relative;
 }
 
